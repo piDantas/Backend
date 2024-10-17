@@ -3,10 +3,15 @@ Este projeto é uma aplicação full-stack de Lista de Tarefas (To-Do List) dese
 A aplicação oferece funcionalidades básicas de gerenciamento de tarefas, como criar, editar, excluir, e marcar como concluída ou pendente. O banco de dados está configurado via Docker.
 
 Funcionalidades
+
 Adicionar Tarefas: Crie novas tarefas com nome, descrição e data de vencimento.
+
 Editar Tarefas: Modifique o nome, descrição ou data de vencimento de uma tarefa existente.
+
 Excluir Tarefas: Remova uma tarefa da lista.
+
 Alterar Status: Marque tarefas como concluídas ou pendentes.
+
 Filtragem: Filtre tarefas por status (todas, concluídas ou pendentes).
 
 Tecnologias Utilizadas
