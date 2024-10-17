@@ -163,13 +163,20 @@ Copiar código
 npm start
 
 Como Usar
+
 Na página inicial, você verá a lista de todas as tarefas.
+
 Para adicionar uma nova tarefa, clique no botão + Nova tarefa e preencha os campos obrigatórios.
+
 Para editar ou excluir uma tarefa, utilize os ícones de edição ou exclusão ao lado de cada tarefa.
+
 Você pode também filtrar as tarefas clicando em Todas, Concluídas ou Pendentes.
 
 Funcionalidades Bônus
+
 Filtros: Filtragem de tarefas por status (concluída ou pendente).
+
 Validação de campos: Todos os campos são obrigatórios ao criar ou editar uma tarefa.
+
 Interface Responsiva: A interface do frontend é responsiva e se adapta a diferentes tamanhos de tela.
 
