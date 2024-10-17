@@ -1,4 +1,4 @@
-To-Do List Application
+Lista de Tarefas
 
 Este projeto é uma aplicação full-stack de Lista de Tarefas (To-Do List) desenvolvida usando React.js no frontend, Node.js com Express no backend e PostgreSQL como banco de dados, utilizando o Prisma como ORM.
 A aplicação oferece funcionalidades básicas de gerenciamento de tarefas, como criar, editar, excluir, e marcar como concluída ou pendente. O banco de dados está configurado via Docker.
